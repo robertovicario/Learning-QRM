@@ -2,7 +2,7 @@
 
 ## Rationale behind the DFSS Approach
 
-Design for Six Sigma (DFSS) focuses on designing or redesigning products, services, and processes to ensure they meet customer needs and achieve Six Sigma capability from the beginning. The aim is to create resource-efficient designs with high yields that are robust to process variations. DFSS contrasts with DMAIC (Define, Measure, Analyze, Improve, Control), which focuses on improving existing processes by reducing defects. DFSS, on the other hand, focuses on defect prevention by supporting the creation of new products and processes【4†source】.
+Design for Six Sigma (DFSS) focuses on designing or redesigning products, services, and processes to ensure they meet customer needs and achieve Six Sigma capability from the beginning. The aim is to create resource-efficient designs with high yields that are robust to process variations. DFSS contrasts with DMAIC (Define, Measure, Analyze, Improve, Control), which focuses on improving existing processes by reducing defects. DFSS, on the other hand, focuses on defect prevention by supporting the creation of new products and processes.
 
 ### The 4 Phases of the Design Process and the Related Tools
 
