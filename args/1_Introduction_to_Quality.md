@@ -57,5 +57,3 @@ Quality 4.0 aims to:
 - Improve operational efficiency with real-time monitoring and predictive maintenance.
 - Foster innovation by integrating new technologies into quality management systems.
 - Support decision-making with advanced analytics and data visualization.
-
-By embracing Quality 4.0, organizations can achieve higher levels of performance, agility, and competitiveness in a rapidly evolving digital landscape.

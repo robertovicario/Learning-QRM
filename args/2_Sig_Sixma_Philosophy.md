@@ -67,5 +67,3 @@ DMAIC is a structured, data-driven improvement cycle used for optimizing and sta
   - Assigning accountability for sustaining improvements.
   - Developing standard operating procedures.
   - Providing training and implementing checklists or reviews to ensure consistency.
-
-Six Sigma, through the DMAIC methodology, provides a structured approach for problem-solving and process improvement, ensuring sustained quality and performance enhancement in organizations.
