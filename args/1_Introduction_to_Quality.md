@@ -15,7 +15,7 @@ Quality can be viewed from different perspectives:
 5. **Value-based Perspective:** Quality is the relationship between the usefulness or satisfaction of a product or service and its price.
 
 
-## History/Evolutionary Steps
+## History
 
 The concept of quality has evolved over time through several key phases:
 
